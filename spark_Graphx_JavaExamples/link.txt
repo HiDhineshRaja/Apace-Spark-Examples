@@ -1,0 +1,10 @@
+https://docs.databricks.com/spark/latest/graph-analysis/index.html
+
+https://blog.acolyer.org/2015/05/26/pregel-a-system-for-large-scale-graph-processing/
+http://ampcamp.berkeley.edu/big-data-mini-course/graph-analytics-with-graphx.html
+https://www.youtube.com/playlist?list=PL7pSMJuOh5ShT_eA_1g2UsupCGE7AU2Ok
+
+
+
+
+http://www.cakesolutions.net/teamblogs/graphx-pregel-api-an-example
